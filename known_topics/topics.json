@@ -1,0 +1,42 @@
+[
+  {
+    "siema": "Word",
+    "greetings": "File"
+  },
+  {
+    "czas": "Word",
+    "functions": "File"
+  },
+  {
+    "jak masz na imię": "Word",
+    "introduces": "File"
+  },
+  {
+    "data": "Word",
+    "functions": "File"
+  },
+  {
+    "jaka jest pogoda": "Word",
+    "functions": "File"
+  },
+  {
+    "cześć": "Word",
+    "greetings": "File"
+  },
+  {
+    "imie": "Word",
+    "introduces": "File"
+  },
+  {
+    "wikipedia": "Word",
+    "functions": "File"
+  },
+  {
+    "kto jest psem": "Word",
+    "dialog": "File"
+  },
+  {
+    "cena": "Word",
+    "functions": "File"
+  }
+]
